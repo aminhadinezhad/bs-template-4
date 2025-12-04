@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass:watch": "sass --watch scss:css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.93.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
